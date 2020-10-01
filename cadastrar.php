@@ -9,8 +9,8 @@
 </head>
 <body>
 <?php
-include("../conexao.php")
-
+include("../conexao.php");
+$heheboy=$_POST['theheboy'];
 $nome=$_POST['tnome'];
 $endereco=$_POST['tendereco'];
 $celular=$_POST['tcelular'];
