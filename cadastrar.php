@@ -9,7 +9,7 @@
 </head>
 <body>
 <?php
-include("../conexao.php")
+include("../conexao.php");
 
 $nome=$_POST['tnome'];
 $endereco=$_POST['tendereco'];
